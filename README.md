@@ -33,11 +33,11 @@
 ---
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/abdulhusain-dahodwala-3a0bba253/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulhusain-dahodwala-3a0bba253/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:abdulhusainhp@gmail.com)
 
 ---
 
-![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulhusain&show_icons=true&theme=radical)
+![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdulhusa&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhusain&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulhusa&layout=compact&theme=radical)
