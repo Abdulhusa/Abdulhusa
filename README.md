@@ -16,11 +16,40 @@
 
 ---
 
-### 🛠️ Projects I'm Proud Of
-- **💬 EduSync - An Elearning Platform** using React + Firebase
-- **🔐 Crime Safety App** with AI-powered route suggestions and SOS
-- **💼 E-commerce Platform** with e-Bidding system (like eBay)
-- **📊 Multilingual Translator** for sign-to-text and vice versa
+---
+
+### 🚀 Projects
+
+- **🎓 EduSync**  
+  A web-based platform to streamline educational resources and improve communication between students and teachers. Features include assignment tracking, resource sharing, and real-time updates. Built with modern web technologies to enhance academic collaboration.
+
+- **🕵️ HackerMan**  
+  A static, fun web project simulating a WhatsApp hacking scenario. It displays a fake alert to trick users into believing their WhatsApp is being hacked — created for entertainment and front-end learning.
+
+- **📝 ToDo & Notes Web App**  
+  A JavaScript-based task manager for adding, editing, and deleting tasks and notes. Designed for simplicity and clean UI, helping users stay organized with minimal effort.
+
+---
+
+### 🏆 Participation & Achievements
+
+- 🥈 **Runners-Up at DIPEX 2024** – Secured 2nd place in the prestigious DIPEX event, showcasing innovative technical solutions.
+- 💡 **Pravinya '23 & '24 Participant** – Actively participated in these competitive events, demonstrating technical knowledge and problem-solving.
+- 🛠️ **SkillIndia** – Qualified up to Round 3, exhibiting strong technical and hands-on abilities.
+- 🌐 **OpenWeaver HTML Workshop** – Attended a hands-on session focusing on modern HTML techniques and web development practices.
+
+---
+
+### 👨‍💼 Roles & Responsibilities
+
+- 🧠 **Technical Head – CSI KJSP**  
+  As Technical Head of CSI KJSP, I:
+  - Led the **IQWAVE Tech Quiz** event, fostering competitive learning.
+  - Organized **two technical talks** on:
+    - **HTML & CSS** – Basics of web development.
+    - **C Programming** – Core logic building and programming fundamentals.
+  - Promoted peer learning and encouraged student participation in tech initiatives.
+
 
 ---
 
